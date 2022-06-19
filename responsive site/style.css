@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: black;
+}
+main{
+    background-color:rgb(253, 114, 114);
+   padding: 50px;
+    display: flex;
+    margin: 15%;
+    color: white;
+    margin-top:90px;
+    padding-top: 100px;
+    padding: 4em;
+
+}
+.p{
+    margin-top: 25px;
+    font-size: xx-small;
+}
+.h{
+    margin-top: 100px;
+    font:bold;
+}
+.button{
+background-color: rgb(56, 56, 236);
+color: white;
+padding: 1em;
+margin-bottom:1em;
+width: 100%;
+text-align: center;
+font-size: xx-small;
+border-radius: 7px;
+}
+/* @media only screen and (min-width:1440px) */
+
+.f{
+    background-color: white;
+    padding: 2em;
+    border-radius: 7px;
+    
+}
+.submit{
+    background-color: green;
+    color: white;
+    width: 100%;
+    margin-top: 1em;
+}
+.td{
+    margin-top: 1em;
+}
+.span{
+    color:red;
+    font-size: xx-small;
+    font-size: 8px;
+}
+.last{
+    color: rgba(20, 17, 17, 0.726);
+    font-size: xx-small;
+    font-size: 8px;
+    padding: 2em;
+}
